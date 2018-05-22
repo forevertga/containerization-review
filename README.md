@@ -3,6 +3,7 @@
 
 
 
-##credits
+## Credits
+
 [Matthew Setter]
 [Akinwunmi Taiwo]
