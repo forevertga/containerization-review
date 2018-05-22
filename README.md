@@ -5,5 +5,5 @@
 
 ## Credits
 
-[Matthew Setter]
-[Akinwunmi Taiwo]
+[Matthew Setter] (https://github.com/settermjd)
+
